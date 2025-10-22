@@ -4,4 +4,4 @@
 
 ### How to use it?
 
-Simply open run the .exe and choose files to encrypt, then type a password and clicn `Encrypt`!
+Simply open run the .exe and choose files to encrypt, then type a password and click `Encrypt`!
